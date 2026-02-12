@@ -1,1 +1,1 @@
-# Paddy-leaf-disease-claasification
+# Paddy-leaf-disease-classification
